@@ -1,4 +1,4 @@
-# WOrking with ArrayLists
+# Working with ArrayLists
 
 Write the following methods.  The documentation is included below.  
 I will write the tester code for the driver class to test your methods, so be sure to name your methods exactly as described in the instructions below.  Be sure to test your code thoroughly, including edge cases.
